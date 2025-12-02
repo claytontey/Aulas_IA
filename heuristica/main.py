@@ -4,8 +4,8 @@ from graphs import graph_ag
 from heuristics import heuristic_ag
 
 def run_ag():
-    start, goal = 'A', 'G'
-    print(f'=== A-G GRAPH (start: {start} -> goal: {goal}) ===')
+    start, goal = 'Arad', 'Bucharest'
+    print(f'=== {start}-{goal} GRAPH (start: {start} -> goal: {goal}) ===')
     g_path, g_order, g_cost = greedy_best_first_search(graph_ag, start, goal, heuristic_ag)
     print('[Greedy] path:', g_path, 'explored:', g_order, 'cost:', g_cost)
     a_path, a_order, a_cost = a_star_search(graph_ag, start, goal, heuristic_ag)

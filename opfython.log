@@ -1,0 +1,390 @@
+2025-11-28 20:27:37,099 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:27:37,104 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:27:37,106 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:27:37,106 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:27:37,106 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:27:47,401 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:27:47,445 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:28:05,469 - opfython.models.supervised — DEBUG — Prototypes: [3963, 3912, 1458, 4360, 762, 4104, 3959, 1544, 1889, 1929, 3038, 1667, 1857, 2505].
+2025-11-28 20:28:37,347 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:28:37,348 - opfython.models.supervised — INFO — Training time: 49.945574045181274 seconds.
+2025-11-28 20:28:37,402 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:29:11,832 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:29:11,833 - opfython.models.supervised — INFO — Prediction time: 34.42993712425232 seconds.
+2025-11-28 20:29:12,061 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:29:12,062 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:29:12,062 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:29:12,062 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:29:12,062 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:29:17,976 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:29:17,991 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:29:32,072 - opfython.models.supervised — DEBUG — Prototypes: [707, 777, 5, 2501, 2788, 4171, 2161, 1213, 1652, 3689, 366].
+2025-11-28 20:29:52,636 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:29:52,636 - opfython.models.supervised — INFO — Training time: 34.66014361381531 seconds.
+2025-11-28 20:29:52,684 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:30:13,961 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:30:13,962 - opfython.models.supervised — INFO — Prediction time: 21.27707052230835 seconds.
+2025-11-28 20:30:14,183 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:30:14,183 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:30:14,184 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:30:14,184 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:30:14,184 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:30:18,959 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:30:18,975 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:30:32,501 - opfython.models.supervised — DEBUG — Prototypes: [2502, 2494, 3527, 679, 2515, 451, 800, 4093, 2535, 3771, 1715, 2848, 4427, 2239, 3544, 1161, 2387, 3785, 625, 2827, 1425].
+2025-11-28 20:30:53,553 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:30:53,553 - opfython.models.supervised — INFO — Training time: 34.59335470199585 seconds.
+2025-11-28 20:30:53,831 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:31:12,585 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:31:12,586 - opfython.models.supervised — INFO — Prediction time: 18.754300594329834 seconds.
+2025-11-28 20:31:12,936 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:31:12,937 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:31:12,937 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:31:12,937 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:31:12,938 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:31:18,364 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:31:18,382 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:31:30,400 - opfython.models.supervised — DEBUG — Prototypes: [3281, 2787, 3675, 1149, 746, 4322, 613, 4106, 419, 3060, 758, 1078, 4216, 1094, 2331, 1941, 57, 4046, 3950, 1921, 2877, 1532].
+2025-11-28 20:31:47,939 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:31:47,940 - opfython.models.supervised — INFO — Training time: 29.575538158416748 seconds.
+2025-11-28 20:31:48,044 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:32:06,507 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:32:06,507 - opfython.models.supervised — INFO — Prediction time: 18.46250319480896 seconds.
+2025-11-28 20:32:06,712 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:32:06,713 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:32:06,713 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:32:06,713 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:32:06,713 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:32:10,706 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:32:10,721 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:32:22,004 - opfython.models.supervised — DEBUG — Prototypes: [4107, 1356, 2268, 4242, 2696, 1270, 1139, 3660, 4336, 3666, 1840, 4056, 2256].
+2025-11-28 20:32:40,436 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:32:40,436 - opfython.models.supervised — INFO — Training time: 29.729904413223267 seconds.
+2025-11-28 20:32:40,507 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:33:00,740 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:33:00,740 - opfython.models.supervised — INFO — Prediction time: 20.232145309448242 seconds.
+2025-11-28 20:33:00,959 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:33:00,960 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:33:00,960 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:33:00,960 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:33:00,960 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:33:05,802 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:33:05,818 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:33:20,377 - opfython.models.supervised — DEBUG — Prototypes: [1626, 262, 460, 3091, 563, 2996, 1277, 773, 1586, 4310, 405, 1011].
+2025-11-28 20:33:39,527 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:33:39,528 - opfython.models.supervised — INFO — Training time: 33.72516894340515 seconds.
+2025-11-28 20:33:39,573 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:33:58,313 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:33:58,313 - opfython.models.supervised — INFO — Prediction time: 18.73984718322754 seconds.
+2025-11-28 20:33:58,510 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:33:58,510 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:33:58,510 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:33:58,511 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:33:58,511 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:34:03,179 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:34:03,195 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:34:15,382 - opfython.models.supervised — DEBUG — Prototypes: [2777, 2441, 2511, 1019, 3073, 3120, 624, 2489, 853, 2533, 2924].
+2025-11-28 20:34:36,204 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:34:36,204 - opfython.models.supervised — INFO — Training time: 33.02438449859619 seconds.
+2025-11-28 20:34:36,302 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:34:58,939 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:34:58,939 - opfython.models.supervised — INFO — Prediction time: 22.636470317840576 seconds.
+2025-11-28 20:34:59,153 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:34:59,154 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:34:59,154 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:34:59,154 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:34:59,154 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:35:03,639 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:35:03,655 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:35:15,608 - opfython.models.supervised — DEBUG — Prototypes: [10, 2967, 1848, 1626, 2339, 2235, 1352, 872].
+2025-11-28 20:35:34,668 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:35:34,668 - opfython.models.supervised — INFO — Training time: 31.028525829315186 seconds.
+2025-11-28 20:35:34,757 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:35:55,030 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:35:55,030 - opfython.models.supervised — INFO — Prediction time: 20.272505044937134 seconds.
+2025-11-28 20:35:55,280 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:35:55,280 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:35:55,280 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:35:55,280 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:35:55,281 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:36:00,843 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:36:01,035 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:36:12,098 - opfython.models.supervised — DEBUG — Prototypes: [3785, 4051, 3075, 3446, 901, 3247, 3062, 2888, 1827, 3291, 791, 1392, 3777, 1756, 1564, 2489, 121, 4183].
+2025-11-28 20:36:29,668 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:36:29,668 - opfython.models.supervised — INFO — Training time: 28.82518434524536 seconds.
+2025-11-28 20:36:29,709 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:36:47,661 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:36:47,661 - opfython.models.supervised — INFO — Prediction time: 17.95103144645691 seconds.
+2025-11-28 20:36:47,847 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:36:47,847 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:36:47,848 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:36:47,848 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:36:47,848 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:36:51,981 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:36:51,996 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:37:03,135 - opfython.models.supervised — DEBUG — Prototypes: [3237, 635, 3154, 3075, 1255, 2046, 4426, 839].
+2025-11-28 20:37:21,362 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:37:21,363 - opfython.models.supervised — INFO — Training time: 29.380605220794678 seconds.
+2025-11-28 20:37:21,394 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:37:39,640 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:37:39,641 - opfython.models.supervised — INFO — Prediction time: 18.24503493309021 seconds.
+2025-11-28 20:37:42,561 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:37:42,562 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:37:42,562 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:37:42,562 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:37:42,562 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:38:05,208 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:38:05,239 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:38:38,595 - opfython.models.supervised — DEBUG — Prototypes: [376, 4325, 901, 189, 2211, 259, 6211, 4144, 1639, 6580, 915, 3331, 2755, 1707, 5862, 6772, 2771, 5834, 6394, 6508, 5243, 5751, 5305, 4582, 5143, 4097, 441, 5941, 2920, 1738, 4078, 4737, 630, 3226, 4966, 3444, 2082, 1348, 7, 2049, 4549, 869, 6688, 4036, 5679, 2683, 3164, 466, 1186, 4501, 3168].
+2025-11-28 20:39:45,138 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:39:45,138 - opfython.models.supervised — INFO — Training time: 99.92951989173889 seconds.
+2025-11-28 20:39:45,350 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:41:05,223 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:41:05,224 - opfython.models.supervised — INFO — Prediction time: 79.87239003181458 seconds.
+2025-11-28 20:41:05,727 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:41:05,728 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:41:05,728 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:41:05,728 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:41:05,728 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:41:25,996 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:41:26,022 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:42:01,908 - opfython.models.supervised — DEBUG — Prototypes: [4419, 1316, 1769, 1097, 6359, 4036, 3396, 1464, 3205, 1944, 1689, 2926, 2417, 5783, 1841, 6320, 1607, 2725, 3093, 2005, 2329, 1411, 2805, 5364, 4369, 5308, 1988, 128, 4206, 2229, 5383, 4241, 4247, 3094, 2381, 5619, 2721, 4803, 1100, 5771, 425, 3589, 3357, 4314, 6332, 4524, 6058, 5995, 1743, 5983, 2734, 10, 4342, 4723, 6985].
+2025-11-28 20:43:00,970 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:43:00,970 - opfython.models.supervised — INFO — Training time: 94.97347855567932 seconds.
+2025-11-28 20:43:01,155 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:44:06,979 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:44:06,979 - opfython.models.supervised — INFO — Prediction time: 65.82299423217773 seconds.
+2025-11-28 20:44:07,484 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:44:07,485 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:44:07,485 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:44:07,485 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:44:07,485 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:44:30,496 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:44:30,519 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:45:03,643 - opfython.models.supervised — DEBUG — Prototypes: [4181, 5228, 1981, 2678, 6184, 3335, 1971, 315, 4800, 3456, 3070, 1358, 61, 1416, 4668, 961, 6658, 2641, 4089, 2858, 194, 1169, 1842, 925, 313, 370, 1666, 2948, 6480, 1904, 224, 6306, 3138, 916, 4032, 5651, 4980, 6389, 7035, 3876, 3069, 3119, 5214, 1637, 5261, 6681, 2108, 3060, 4949, 4398, 3946, 6316, 1633, 4259, 6257, 4120, 6583, 3226, 1051, 4368, 1432, 6079].
+2025-11-28 20:46:02,480 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:46:02,480 - opfython.models.supervised — INFO — Training time: 91.98372220993042 seconds.
+2025-11-28 20:46:02,691 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:47:20,032 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:47:20,033 - opfython.models.supervised — INFO — Prediction time: 77.3412573337555 seconds.
+2025-11-28 20:47:20,627 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:47:20,628 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:47:20,628 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:47:20,628 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:47:20,628 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:47:45,177 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:47:45,205 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:48:19,223 - opfython.models.supervised — DEBUG — Prototypes: [5344, 3290, 4369, 2144, 6263, 3918, 2243, 4873, 5098, 6547, 789, 720, 5701, 6744, 1673, 5318, 2869, 6813, 61, 5905, 5311, 1924, 4122, 2820, 6, 3086, 5413, 3414, 2513, 2746, 239, 3006, 5868, 3022, 6495, 6183, 6544, 2310, 3876, 40, 4168, 1295, 6360, 3678].
+2025-11-28 20:49:18,984 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:49:18,984 - opfython.models.supervised — INFO — Training time: 93.80667972564697 seconds.
+2025-11-28 20:49:19,400 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:50:29,374 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:50:29,374 - opfython.models.supervised — INFO — Prediction time: 69.97402167320251 seconds.
+2025-11-28 20:50:29,972 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:50:29,972 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:50:29,972 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:50:29,972 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:50:29,973 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:50:50,138 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:50:50,162 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:51:23,985 - opfython.models.supervised — DEBUG — Prototypes: [6215, 3198, 3700, 2292, 3697, 1185, 410, 5242, 3095, 6851, 3761, 797, 7063, 6919, 2693, 5258, 3937, 4375, 6964, 2528, 3867, 6961, 6407, 1365, 5679, 1968, 1629, 1981, 4474, 5092, 5523, 849, 1662, 157, 5124, 2130, 4798, 1388, 827].
+2025-11-28 20:52:21,385 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:52:21,385 - opfython.models.supervised — INFO — Training time: 91.24631547927856 seconds.
+2025-11-28 20:52:21,644 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:53:27,565 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:53:27,565 - opfython.models.supervised — INFO — Prediction time: 65.92073369026184 seconds.
+2025-11-28 20:53:28,187 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:53:28,188 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:53:28,188 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:53:28,188 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:53:28,188 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:53:47,384 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:53:47,407 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:54:20,813 - opfython.models.supervised — DEBUG — Prototypes: [6961, 6252, 541, 4217, 4885, 2074, 3673, 6045, 2266, 5847, 5893, 2849, 5383, 487, 3181, 934, 915, 1701, 3617, 4827, 4618, 1798, 1461, 1090, 2972, 3564, 2610, 1890, 5083, 4626, 869, 1811, 130, 5816, 7040, 6146, 6668, 7022, 3288, 2539, 4082, 4938].
+2025-11-28 20:55:17,580 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:55:17,581 - opfython.models.supervised — INFO — Training time: 90.19608569145203 seconds.
+2025-11-28 20:55:17,950 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:56:24,421 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:56:24,421 - opfython.models.supervised — INFO — Prediction time: 66.47096824645996 seconds.
+2025-11-28 20:56:24,983 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:56:24,983 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:56:24,984 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:56:24,984 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:56:24,984 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:56:45,488 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:56:45,512 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 20:57:19,084 - opfython.models.supervised — DEBUG — Prototypes: [2690, 4645, 2712, 4698, 6775, 3606, 5725, 1733, 2737, 78, 5953, 6407, 4269, 4943, 4631, 6097, 3225, 1580, 4332, 1103, 6578, 2258, 985, 234, 4967, 4564, 5286, 2426, 772, 3054, 3030, 6912, 1379, 3119, 4827, 360, 1095, 5318, 2611, 2697, 698, 5369, 1109, 357, 6252, 1942, 4071, 5934, 254, 510, 6831, 3992, 1899, 5258, 4021].
+2025-11-28 20:58:15,248 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 20:58:15,248 - opfython.models.supervised — INFO — Training time: 89.75981020927429 seconds.
+2025-11-28 20:58:15,659 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 20:59:19,341 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 20:59:19,342 - opfython.models.supervised — INFO — Prediction time: 63.68220615386963 seconds.
+2025-11-28 20:59:19,985 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 20:59:19,986 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 20:59:19,986 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 20:59:19,986 - opfython.core.opf — INFO — Class created.
+2025-11-28 20:59:19,986 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 20:59:41,774 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 20:59:41,873 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:00:14,269 - opfython.models.supervised — DEBUG — Prototypes: [4461, 5518, 4118, 3079, 4624, 16, 494, 4377, 1391, 390, 988, 1490, 6985, 4974, 1130, 4173, 3627, 4060, 4405, 1522, 4149, 1786, 6810, 6956, 5911, 5183, 5392, 6882, 1644, 5539, 1280, 4143, 6884, 4551, 828, 2264, 4478, 3210, 6532, 4197, 3195, 4737, 3136, 1007, 1366, 5852, 221, 2910, 2691, 1606, 2950, 5673, 1257].
+2025-11-28 21:01:09,709 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:01:09,709 - opfython.models.supervised — INFO — Training time: 87.9341127872467 seconds.
+2025-11-28 21:01:09,981 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:02:14,154 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:02:14,154 - opfython.models.supervised — INFO — Prediction time: 64.17286729812622 seconds.
+2025-11-28 21:02:14,815 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:02:14,816 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:02:14,816 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:02:14,816 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:02:14,817 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:02:32,963 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:02:32,986 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:03:05,440 - opfython.models.supervised — DEBUG — Prototypes: [1323, 814, 2369, 4940, 4845, 6864, 6553, 1999, 4671, 4873, 3927, 4654, 4772, 3569, 3455, 5447, 3301, 1956, 3287, 5487, 6918, 3993, 6190, 4525, 5201, 3207, 5604, 2017, 5775, 2870, 3279, 2495, 1585, 1161, 2242, 5336, 304, 947, 1064, 1244, 6203, 2329].
+2025-11-28 21:04:11,505 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:04:11,505 - opfython.models.supervised — INFO — Training time: 98.54163408279419 seconds.
+2025-11-28 21:04:11,657 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:05:32,244 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:05:32,245 - opfython.models.supervised — INFO — Prediction time: 80.58664464950562 seconds.
+2025-11-28 21:05:32,730 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:05:32,730 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:05:32,730 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:05:32,730 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:05:32,731 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:05:55,134 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:05:55,157 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:06:27,895 - opfython.models.supervised — DEBUG — Prototypes: [1143, 5104, 347, 2044, 4869, 2360, 4706, 2135, 782, 1543, 427, 31, 5432, 5364, 2600, 5819, 4816, 4417, 4820, 2558, 636, 34, 3784, 773, 4569, 5124, 2762, 484, 1594, 6879, 849, 6665, 4722, 4847, 6796, 3944, 5461, 1244, 6332, 6531, 67, 410, 4759, 1172, 7061, 5985, 3800, 5048, 5877, 4579, 3286, 38, 1018, 583].
+2025-11-28 21:07:22,005 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:07:22,006 - opfython.models.supervised — INFO — Training time: 86.87153577804565 seconds.
+2025-11-28 21:07:22,186 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:08:25,902 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:08:25,903 - opfython.models.supervised — INFO — Prediction time: 63.71580410003662 seconds.
+2025-11-28 21:08:28,933 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:08:28,933 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:08:28,934 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:08:28,934 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:08:28,934 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:08:57,014 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:08:57,038 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:09:30,781 - opfython.models.supervised — DEBUG — Prototypes: [6259, 881, 4098, 4637, 644, 2922, 6987, 1994, 1124, 7055, 3525, 1251, 5877, 5514, 1579, 3686, 1346, 1280, 1296, 2475, 5797, 2193, 7035, 6185, 766, 4535, 2873, 6810, 1439, 3193, 3614, 1787, 2075, 460, 2643, 6688, 4546, 4783, 2672, 6661, 1127, 2827, 1853, 3180, 1344, 3195, 2917, 811, 3722, 3164, 5803, 6898, 5461, 6327, 5455, 1803, 1019, 2477, 4511, 4640, 4627, 6849, 1520, 3372, 6268, 6036, 6245, 996, 6034, 5681, 6271, 4344].
+2025-11-28 21:10:34,284 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:10:34,284 - opfython.models.supervised — INFO — Training time: 97.2692060470581 seconds.
+2025-11-28 21:10:34,567 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:11:51,209 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:11:51,209 - opfython.models.supervised — INFO — Prediction time: 76.64130783081055 seconds.
+2025-11-28 21:11:51,822 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:11:51,823 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:11:51,823 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:11:51,823 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:11:51,823 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:12:19,456 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:12:19,480 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:12:53,168 - opfython.models.supervised — DEBUG — Prototypes: [3516, 3370, 2335, 1577, 2780, 323, 680, 288, 6730, 1379, 4881, 1781, 3127, 1684, 1862, 6414, 5815, 2438, 2562, 5981, 5098, 2332, 6941, 4123, 4281, 6330, 1912, 969, 6271, 441, 1740, 3071, 5539, 1021, 2177, 1969, 1571, 4756, 6346, 790, 1770, 2558, 5397, 4187, 1711, 1116, 1913, 456, 3202, 3567, 3375, 247, 3224, 5773, 6189, 138, 6949, 4387, 317, 5459, 1869, 5223, 6404, 2375, 4762].
+2025-11-28 21:13:59,537 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:13:59,537 - opfython.models.supervised — INFO — Training time: 100.08071637153625 seconds.
+2025-11-28 21:13:59,785 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:15:21,371 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:15:21,371 - opfython.models.supervised — INFO — Prediction time: 81.58503556251526 seconds.
+2025-11-28 21:15:21,986 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:15:21,987 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:15:21,987 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:15:21,987 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:15:21,988 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:15:46,838 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:15:46,862 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:16:19,983 - opfython.models.supervised — DEBUG — Prototypes: [5017, 2244, 450, 1040, 4102, 932, 2564, 3175, 1274, 4778, 5873, 2842, 5019, 1493, 1567, 2262, 300, 4575, 3847, 135, 6332, 3118, 4977, 3884, 6575, 967, 6371, 635, 5116, 4548, 2133, 6782, 1088, 2418, 5325, 6055, 485, 491, 3671, 4151, 4341, 3998, 877, 3196, 3732, 4420, 1087, 6868, 5538, 3418, 5637, 547, 278, 1406, 2906, 3525, 203, 3219, 3033, 76, 5189, 1983, 492, 2468, 4084, 5310, 6240, 1082].
+2025-11-28 21:17:16,066 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:17:16,066 - opfython.models.supervised — INFO — Training time: 89.22807478904724 seconds.
+2025-11-28 21:17:16,282 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:18:20,825 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:18:20,826 - opfython.models.supervised — INFO — Prediction time: 64.5424075126648 seconds.
+2025-11-28 21:18:21,409 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:18:21,410 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:18:21,410 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:18:21,410 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:18:21,411 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:18:48,015 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:18:48,040 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:19:21,617 - opfython.models.supervised — DEBUG — Prototypes: [4503, 1783, 6137, 3657, 3307, 982, 305, 2316, 900, 2737, 4401, 232, 4588, 1753, 6593, 5270, 5707, 2254, 2638, 4309, 4459, 5593, 6055, 3715, 5352, 66, 963, 449, 782, 4293, 6499, 4397, 6723, 4746, 1082, 6070, 3436, 5646, 4888, 4519, 4731, 1037, 2716, 2564, 6597, 1198, 874, 2124, 7074, 6592, 5375, 843, 3749, 6583, 4963, 2452, 6039, 4817, 2565, 4702, 1501, 5660, 6887, 545, 261, 6145, 2632, 3217, 1938, 811, 972].
+2025-11-28 21:20:24,937 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:20:24,937 - opfython.models.supervised — INFO — Training time: 96.92162489891052 seconds.
+2025-11-28 21:20:25,495 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:21:42,850 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:21:42,851 - opfython.models.supervised — INFO — Prediction time: 77.35539484024048 seconds.
+2025-11-28 21:21:43,578 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:21:43,579 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:21:43,579 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:21:43,579 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:21:43,580 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:22:09,014 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:22:09,037 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:22:42,362 - opfython.models.supervised — DEBUG — Prototypes: [2699, 6374, 4348, 3658, 3493, 4540, 3538, 1860, 6743, 6323, 2609, 2295, 3687, 2955, 4254, 6184, 2593, 54, 1101, 5395, 1307, 5467, 4290, 5287, 2339, 1320, 5181, 3392, 2471, 3128, 4804, 2248, 2639, 3892, 2536, 55, 42, 5195, 661, 3683, 1355, 2538, 6369, 234, 5381, 5973, 1623, 4470, 824, 5418, 3424, 2220, 5423, 5236, 5504, 622, 6357, 710, 1833, 2668, 5189, 819, 894, 6060, 17, 4281, 1195, 3601, 6795].
+2025-11-28 21:23:42,825 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:23:42,825 - opfython.models.supervised — INFO — Training time: 93.81091737747192 seconds.
+2025-11-28 21:23:43,360 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:24:56,478 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:24:56,479 - opfython.models.supervised — INFO — Prediction time: 73.11765694618225 seconds.
+2025-11-28 21:24:57,121 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:24:57,121 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:24:57,122 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:24:57,122 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:24:57,122 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:25:25,446 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:25:25,550 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:25:58,935 - opfython.models.supervised — DEBUG — Prototypes: [5455, 6108, 6008, 644, 690, 4719, 583, 4161, 5364, 3258, 2473, 1036, 6644, 6185, 4363, 1808, 3835, 2781, 5598, 3597, 4196, 5786, 1292, 2607, 6969, 947, 4711, 5154, 4205, 2014, 3797, 2819, 2457, 1497, 4966, 3393, 5285, 2664, 6201, 6712, 5830, 6988, 4516, 4441, 376, 4796, 4262, 5586, 2086, 6493, 3728, 1247, 4518, 6369, 4944, 3228, 4347, 3604, 1711, 82, 2342, 3321, 1194, 6674, 3296, 1652, 1581, 6773, 1889, 5547, 6194, 5444, 5814, 1684, 4057, 4912, 3351, 6922, 6530, 170].
+2025-11-28 21:26:56,620 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:26:56,620 - opfython.models.supervised — INFO — Training time: 91.17387866973877 seconds.
+2025-11-28 21:26:57,245 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:28:04,763 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:28:04,763 - opfython.models.supervised — INFO — Prediction time: 67.5176510810852 seconds.
+2025-11-28 21:28:05,502 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:28:05,503 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:28:05,503 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:28:05,503 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:28:05,503 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:28:32,899 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:28:32,922 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:29:06,696 - opfython.models.supervised — DEBUG — Prototypes: [715, 4413, 1006, 4220, 6256, 6178, 4245, 47, 3310, 3039, 1604, 2838, 4407, 3113, 6783, 3624, 2527, 2252, 6519, 3636, 6507, 1346, 5958, 1630, 1714, 4897, 1828, 1169, 6150, 4913, 6059, 2081, 2231, 5591, 23, 920, 545, 1376, 4289, 4544, 4549, 6997, 2278, 4154, 3894, 2923, 45, 5788, 1156, 2010, 2508, 5186, 6081, 5484, 6532, 4200, 3870, 2964, 1043, 3260, 6579, 1646, 117, 5469, 468, 4666, 2860, 2498, 2063, 1577, 5602, 4209, 6353, 178, 490, 4044, 3832, 1578, 6786, 4811, 169, 663].
+2025-11-28 21:30:03,733 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:30:03,733 - opfython.models.supervised — INFO — Training time: 90.83374500274658 seconds.
+2025-11-28 21:30:04,291 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:31:10,836 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:31:10,836 - opfython.models.supervised — INFO — Prediction time: 66.54414081573486 seconds.
+2025-11-28 21:31:11,573 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:31:11,573 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:31:11,574 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:31:11,574 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:31:11,574 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:31:38,652 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:31:38,675 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:32:11,787 - opfython.models.supervised — DEBUG — Prototypes: [4821, 3622, 242, 4639, 4368, 864, 6403, 937, 6313, 3760, 6621, 6100, 5024, 5314, 1677, 4586, 2696, 6676, 3257, 1572, 1590, 395, 6566, 1302, 2026, 2879, 3337, 5554, 559, 4251, 3461, 4398, 3122, 2465, 64, 3373, 6370, 2327, 1061, 2285, 4283, 2032, 649, 903, 1222, 3955, 3643, 6549, 107, 485, 4083, 3099, 536, 2797, 918, 5474, 5077, 1845, 265, 6262, 5332, 2377, 2737, 5919, 4365, 5582, 4525, 4465, 3677, 5702, 2705, 2061, 1424, 948, 337, 2449].
+2025-11-28 21:33:17,039 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:33:17,039 - opfython.models.supervised — INFO — Training time: 98.38618206977844 seconds.
+2025-11-28 21:33:17,638 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:34:33,712 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:34:33,712 - opfython.models.supervised — INFO — Prediction time: 76.07327389717102 seconds.
+2025-11-28 21:34:34,404 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:34:34,404 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:34:34,405 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:34:34,405 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:34:34,405 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:35:04,295 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:35:04,317 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:35:37,651 - opfython.models.supervised — DEBUG — Prototypes: [6954, 6150, 5705, 4551, 5701, 6134, 6521, 3254, 3291, 6270, 6975, 5553, 1918, 5659, 2743, 4166, 2530, 2192, 863, 1038, 1388, 5288, 4784, 1584, 6766, 2020, 6034, 387, 4513, 4215, 7011, 6759, 4167, 172, 5884, 4467, 80, 2534, 5539, 2657, 5253, 91, 5808, 6332, 879, 2928, 1400, 2469, 3282, 1377, 6997, 6462, 6277, 2411, 4659, 5850, 5581, 4866, 5481, 6748, 1779, 2996, 3698, 111, 6317, 882, 631, 5188, 4477, 1070].
+2025-11-28 21:36:44,534 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:36:44,534 - opfython.models.supervised — INFO — Training time: 100.23835492134094 seconds.
+2025-11-28 21:36:45,177 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:38:08,303 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:38:08,304 - opfython.models.supervised — INFO — Prediction time: 83.1259183883667 seconds.
+2025-11-28 21:38:09,033 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2025-11-28 21:38:09,033 - opfython.core.opf — INFO — Creating class: OPF.
+2025-11-28 21:38:09,034 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2025-11-28 21:38:09,034 - opfython.core.opf — INFO — Class created.
+2025-11-28 21:38:09,034 - opfython.models.supervised — INFO — Class overrided.
+2025-11-28 21:38:36,752 - opfython.models.supervised — INFO — Fitting classifier ...
+2025-11-28 21:38:36,778 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2025-11-28 21:39:10,359 - opfython.models.supervised — DEBUG — Prototypes: [2825, 4030, 3524, 3680, 5522, 2451, 1943, 1040, 1649, 1178, 10, 6590, 2924, 6678, 623, 6054, 5102, 4647, 5954, 1698, 683, 6782, 3048, 5992, 1079, 6604, 585, 3191, 4089, 5295, 2895, 6436, 1205, 724, 6368, 4574, 3955, 5769, 6166, 6543, 5934, 357, 3779, 6633, 4588, 665, 1317, 6018, 2599, 2964, 5032, 4398, 3325, 2405, 639, 3262, 1670, 1404, 1951, 573, 6157, 2871, 557, 6222, 5767, 3820, 6509, 3850, 1337, 3924, 5350, 809, 849].
+2025-11-28 21:40:07,954 - opfython.models.supervised — INFO — Classifier has been fitted.
+2025-11-28 21:40:07,955 - opfython.models.supervised — INFO — Training time: 91.20170664787292 seconds.
+2025-11-28 21:40:09,268 - opfython.models.supervised — INFO — Predicting data ...
+2025-11-28 21:41:13,967 - opfython.models.supervised — INFO — Data has been predicted.
+2025-11-28 21:41:13,968 - opfython.models.supervised — INFO — Prediction time: 64.69872283935547 seconds.
